@@ -25,7 +25,7 @@
   - flask
   - React
   - ElectronJS
-- ancos de Dados:
+- Bancos de Dados:
   - SQLServer
   - PostgreSQL
   - MySql
