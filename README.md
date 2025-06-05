@@ -16,7 +16,7 @@
   - TypeScript
   - Visual Basic 6
   - python
-  - cshap
+  - c#
   - PHP
 - Frameworks e bibliotecas:
   - Nestjs
