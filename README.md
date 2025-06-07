@@ -8,7 +8,11 @@
 - 🛠️ Curto melhorar sistemas, seja otimizando código ou propondo soluções mais eficientes
 - 🤖 Tenho interesse em conhecer engenharia robótica
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleiton-Aparecido&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleiton-Aparecido&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton-Aparecido&layout=compact&theme=radical&size_weight=5&count_weight=1)
+
 
 # 💻 Tecnologias com as quais já trabalhei:
 
