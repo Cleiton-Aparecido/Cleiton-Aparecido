@@ -9,8 +9,9 @@
 - 🤖 Tenho interesse em conhecer engenharia robótica
 
 
-
+ <!-- WebSocket (ícone genérico de rede) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleiton-Aparecido&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton-Aparecido&layout=compact&theme=radical&size_weight=5&count_weight=1)
 
 
